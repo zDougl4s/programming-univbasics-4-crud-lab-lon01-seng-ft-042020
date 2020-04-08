@@ -15,7 +15,7 @@ array.unshift(element)
 end
 
 def remove_element_from_end_of_array(array)
-array.pop(element)
+array.pop(0)
 end
 
 def remove_element_from_start_of_array(array)
