@@ -27,7 +27,7 @@ array.[1]
 end
 
 def retrieve_first_element_from_array(array)
-arrar.[1]
+arrar.[0]
 end
 
 def retrieve_last_element_from_array(array)
